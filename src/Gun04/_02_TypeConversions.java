@@ -1,6 +1,6 @@
 package Gun04;
 
-public class __02_TypeConversions {
+public class _02_TypeConversions {
     public static void main(String[] args) {
         byte ogrNot1=98;
         byte ogrNot2=98;
