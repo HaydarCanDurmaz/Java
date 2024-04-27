@@ -15,5 +15,6 @@ public class _05_Example {
         System.out.println("FullName = " + Name+" "+SurName);
         System.out.println("clasnumber = " + clasnumber+" "+clasroom);
         System.out.println("pass or not = " + pass);
+        System.out.println(Name+" "+SurName+" "+clasnumber+" "+clasroom+" "+ pass);
     }
 }
