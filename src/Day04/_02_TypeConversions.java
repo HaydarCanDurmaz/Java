@@ -1,4 +1,4 @@
-package Gun04;
+package Day04;
 
 public class _02_TypeConversions {
     public static void main(String[] args) {

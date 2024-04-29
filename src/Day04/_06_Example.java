@@ -1,4 +1,4 @@
-package Gun04;
+package Day04;
 
 public class _06_Example {
     public static void main(String[] args) {

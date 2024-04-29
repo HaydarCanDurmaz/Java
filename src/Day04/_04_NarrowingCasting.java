@@ -1,4 +1,4 @@
-package Gun04;
+package Day04;
 
 public class _04_NarrowingCasting {
     public static void main(String[] args) {
