@@ -9,7 +9,7 @@ public class _06_Question {
 
         Scanner read = new Scanner(System.in);
 
-        System.out.print("enter the your name =");// adSoyad veri olarak alındı
+        System.out.print("Enter the your Name and Surname =");// adSoyad veri olarak alındı
 
         // Ismet Temur -> I.T.  -> I -> charAt(0) I.
         // indexOf(" ")-> boşluğun indexini veriyor, bunun 1 fazlası charAt() -> T yi verir
@@ -20,7 +20,7 @@ public class _06_Question {
          char firstSurname =nameSurname.charAt(emptyIndex+1);
         System.out.println(firstName+"."+firstSurname+".");
 
-        // char soyadIlkHarf= adSoyad.charAt(adSoyad.indexOf(" ")+1);
+        // char soyadIlkHarf= firstName.charAt(nameSurname.indexOf(" ")+1);
 
     }
 }
