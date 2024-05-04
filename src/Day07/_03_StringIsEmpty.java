@@ -1,4 +1,4 @@
-package Gun07;
+package Day07;
 
 public class _03_StringIsEmpty {
     public static void main(String[] args) {

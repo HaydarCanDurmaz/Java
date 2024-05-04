@@ -1,4 +1,4 @@
-package Gun07;
+package Day07;
 
 import java.util.Scanner;
 

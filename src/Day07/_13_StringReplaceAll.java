@@ -1,4 +1,4 @@
-package Gun07;
+package Day07;
 
 public class _13_StringReplaceAll {
     public static void main(String[] args) {
