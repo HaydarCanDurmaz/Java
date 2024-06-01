@@ -27,7 +27,7 @@ public class _04_Switch {
             case 6: System.out.println("Saturdau"); break;
             case 7: System.out.println("Sunday"); break;
 
-            default: System.out.println("Hatalı Numara"); // caselerin dışında ise
+            default: System.out.println("Wrong Number"); // caselerin dışında ise
 
 
         }
