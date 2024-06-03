@@ -23,6 +23,7 @@ public class _01_Break {
                 System.out.println("Tam Karedir");
                 break;
             }
+            System.out.println("counter = " + counter);
             counter++;
         }
 
