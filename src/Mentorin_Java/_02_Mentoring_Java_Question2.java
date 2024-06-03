@@ -2,7 +2,7 @@ package Mentorin_Java;
 
 import java.util.Scanner;
 
-public class _01_Mentoring_Java_Question4 {
+public class _02_Mentoring_Java_Question2 {
     public static void main(String[] args) {
         // Girilen bir sayinin haftanın hangi gününe denk geldigini yazdıran bir program yaziniz
 
