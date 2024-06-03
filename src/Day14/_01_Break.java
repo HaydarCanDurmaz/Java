@@ -16,16 +16,20 @@ public class _01_Break {
         int number = scanner.nextInt();
 
         int counter = 0;
+        boolean tamkare = false;
         while (counter < number)
         {
             if (counter*counter==number)
             {
                 System.out.println("Tam Karedir");
+                tamkare=true;
                 break;
             }
             System.out.println("counter = " + counter);
             counter++;
         }
 
+        if (tamkare == false)
+            System.out.println("Tam kare degildir");
     }
 }
