@@ -17,6 +17,7 @@ public class _04_Mentoring_Java_Question4 {
             System.out.println("get ready");
         } else if (light.equalsIgnoreCase("Green")) {
             System.out.println("Go");
-        }
+        }else
+            System.out.println("Wrong process");
     }
 }
