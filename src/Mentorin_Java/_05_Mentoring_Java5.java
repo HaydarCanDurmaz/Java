@@ -17,23 +17,25 @@ public class _05_Mentoring_Java5 {
 
      */
 
+
         Scanner scanner = new Scanner(System.in);
-        System.out.print(" Creating E-Mail Adress =  ");
+        System.out.print("E-mail Creating");
         String email = scanner.nextLine();
 
 
-        if (email.contains(".com"))
-        {
-            System.out.println("Pass");
-        }else
-            if(!(email.contains("p")))
-            {
-                System.out.println("False");
-            }else
-            if(!(email.contains("p")))
-            {
-                System.out.println("False");
-            }
+        boolean varmi = email.toLowerCase().contains(".com");
+        boolean varmi1 = email.toLowerCase().contains("@");
+
+        if (email.endsWith(".com") && email.contains("@") && varmi==true && varmi1==true)
+            System.out.println("Uygun");
+        else
+            if (!(email.contains(".com") && !email.contains("@") && varmi==false && varmi1==false))
+                System.out.println("Uygun Degil");
+            else
+                System.out.println();
+
+
+
 
 
 

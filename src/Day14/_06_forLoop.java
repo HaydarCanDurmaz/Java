@@ -17,6 +17,8 @@ public class _06_forLoop {
 
         for (int i = 1; i <=10 ; i++) {
             System.out.println("2 x "+i+"="+(2*i));
+            System.out.println("*********");
+            System.out.println("5 x "+i+"="+(5*i));
 
         }
     }
