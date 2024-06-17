@@ -15,7 +15,6 @@ public class _05_JavaArray {
         int rasgele = (int) (Math.random()*televizyon.length);
 
         System.out.println("Rasgele Secilen Tv = >" + televizyon[rasgele]);
-// TODO : gunun sorusu : bir döngü ile 5 tane rastgele buldurunuz
-        // TODO : fakat bir buldunu tekrar bulmasın
+
     }
 }
