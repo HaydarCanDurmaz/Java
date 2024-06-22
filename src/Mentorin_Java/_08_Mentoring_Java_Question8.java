@@ -2,7 +2,7 @@ package Mentorin_Java;
 
 import java.util.Scanner;
 
-public class _07_Mentoring_Java_Question8 {
+public class _08_Mentoring_Java_Question8 {
     public static void main(String[] args) {
          // Girilen 3 basamaklı bir sayının birler . onlar ve yüzler basamagını bulunuz
 
